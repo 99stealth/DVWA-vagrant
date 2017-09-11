@@ -1,0 +1,10 @@
+{
+    "nodes": {
+        "dvwa.localhost": {
+            ":ip": "192.168.32.110",
+            "ports": [],
+            ":memory": 1024,
+            ":bootstrap": "bootstrap.sh"
+        }
+    }
+}
